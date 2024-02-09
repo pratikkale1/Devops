@@ -1,4 +1,4 @@
-# DevOps training by Phaniraj @9945205684
+# DevOps 
 ## Subtopics:
 1. What is DevOps?
 2. Docker
